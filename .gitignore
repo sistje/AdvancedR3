@@ -1,0 +1,5 @@
+r3::check_project_setup_advanced()r3::check_project_setup_advanced().Rhistory
+.RData
+.Rproj.user
+.Rbuildignore
+data-raw/nmr-omics/
