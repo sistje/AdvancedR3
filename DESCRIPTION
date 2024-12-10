@@ -21,3 +21,5 @@ Suggests:
     usethis
 URL: https://github.com/sistje/AdvancedR3
 BugReports: https://github.com/sistje/AdvancedR3/issues
+Depends: 
+    tidyverse
